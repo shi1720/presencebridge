@@ -1,0 +1,32 @@
+[
+  {
+    "source": "github",
+    "operations": 1242,
+    "body_operations": 352,
+    "object_operations": 332,
+    "fields": 1250,
+    "optional": 946,
+    "optional_null_marked": 76,
+    "optional_null_accepted": 62,
+    "marked_null_rejected": 14,
+    "operations_exposed": 37,
+    "patch_operations": 74,
+    "patch_exposed": 19,
+    "skipped_union_roots": 18
+  },
+  {
+    "source": "stripe",
+    "operations": 612,
+    "body_operations": 612,
+    "object_operations": 611,
+    "fields": 2278,
+    "optional": 2109,
+    "optional_null_marked": 0,
+    "optional_null_accepted": 0,
+    "marked_null_rejected": 0,
+    "operations_exposed": 0,
+    "patch_operations": 0,
+    "patch_exposed": 0,
+    "skipped_union_roots": 0
+  }
+]

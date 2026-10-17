@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite the companion technical research report when using this artifact."
+title: "Valid JSON, Wrong Update: Preserving Field Presence in Agent Tool Calls"
+authors:
+  - family-names: Gupta
+    given-names: Shivam
+    affiliation: "Independent Researcher; Founder, Siloed"
+version: 0.1.0
+date-released: 2026-10-17
+type: software
+license: MIT
+repository-code: "https://github.com/shi1720/presencebridge"

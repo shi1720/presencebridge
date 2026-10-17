@@ -1,0 +1,17 @@
+{
+  "paper/PresenceBridge_Shivam_Gupta.pdf": "fc909fdab790352dda0a3b3f99561a16f05fc8e1378fd963c7375aa3e5a6e713",
+  "results/effects_summary.json": "77c9d873483b467f8005e069093a8c1495304a81a47e12a81b7b3f00c94b4dec",
+  "results/sdk_probes.json": "800c7d71a95f72ff68cd27cf9f95ba57091a3368228fdf44fe65535e8ce7a9e2",
+  "results/effect_replay.csv": "23f4d09d039f11c4637381a10f5a7a7175a596bb98c6be250d737f76358851c3",
+  "results/test-report.txt": "a684e7e2d76abeef9967a53d154cda4afbf2c590c0868f7d8c41dedea9277414",
+  "results/demo.jsonl": "576790c4ef3894fe82bdd7b9b816425088059227d9e5235c739c129ef76d59a9",
+  "results/census.json": "af34be680f6c61ab5898122c329c26efd9d8e139c60eb1d68b7b75f548e5e061",
+  "results/verification-run.txt": "6affd8e8ac63e7c0095d40e8c8ae8936e60d122b53d4fa5aea7d39c305727232",
+  "results/token_summary.json": "127d08e384a96f3ec3dfa0fcb8bbc51acb03fa9d1deb94acc16d0cfe231bd92e",
+  "results/environment.json": "daf29ffc62ed90456ff502d48c8bf6dd87fa5d8148be50306e659a0c77fde907",
+  "results/token_costs.csv": "ecf6754419f5ae21fc6aa3743d7a183cc1623777bd319296d1159228682a7e48",
+  "results/independent_verification.json": "8f2a684db20edc1a2e76e1531af0710cfa176db1b55599a60c2b949d9f884d04",
+  "results/state_coverage.json": "759f960666a6eb455c71d5843a0150273f2139e548d506d506440204d9d4ed23",
+  "data/sources.json": "0e1dd4102d44b2bac43c567eb9cb1506e409d5458395269849dad5094e16c5aa",
+  "data/field_inventory.csv": "4555220dab008643f6260ed6ce46876c9a21f6ac579ef9f46f7cd1628bfb461c"
+}

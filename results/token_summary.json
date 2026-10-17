@@ -1,0 +1,128 @@
+[
+  {
+    "encoding": "cl100k_base",
+    "mode": "nullable",
+    "nullable_fields": 0,
+    "mean_tokens": 18,
+    "cases": 81
+  },
+  {
+    "encoding": "cl100k_base",
+    "mode": "nullable",
+    "nullable_fields": 2,
+    "mean_tokens": 18,
+    "cases": 144
+  },
+  {
+    "encoding": "cl100k_base",
+    "mode": "nullable",
+    "nullable_fields": 4,
+    "mean_tokens": 18,
+    "cases": 256
+  },
+  {
+    "encoding": "cl100k_base",
+    "mode": "selective",
+    "nullable_fields": 0,
+    "mean_tokens": 18,
+    "cases": 81
+  },
+  {
+    "encoding": "cl100k_base",
+    "mode": "selective",
+    "nullable_fields": 2,
+    "mean_tokens": 28,
+    "cases": 144
+  },
+  {
+    "encoding": "cl100k_base",
+    "mode": "selective",
+    "nullable_fields": 4,
+    "mean_tokens": 38,
+    "cases": 256
+  },
+  {
+    "encoding": "cl100k_base",
+    "mode": "tagged",
+    "nullable_fields": 0,
+    "mean_tokens": 36.666666666666664,
+    "cases": 81
+  },
+  {
+    "encoding": "cl100k_base",
+    "mode": "tagged",
+    "nullable_fields": 2,
+    "mean_tokens": 37.333333333333336,
+    "cases": 144
+  },
+  {
+    "encoding": "cl100k_base",
+    "mode": "tagged",
+    "nullable_fields": 4,
+    "mean_tokens": 38,
+    "cases": 256
+  },
+  {
+    "encoding": "o200k_base",
+    "mode": "nullable",
+    "nullable_fields": 0,
+    "mean_tokens": 18,
+    "cases": 81
+  },
+  {
+    "encoding": "o200k_base",
+    "mode": "nullable",
+    "nullable_fields": 2,
+    "mean_tokens": 18,
+    "cases": 144
+  },
+  {
+    "encoding": "o200k_base",
+    "mode": "nullable",
+    "nullable_fields": 4,
+    "mean_tokens": 18,
+    "cases": 256
+  },
+  {
+    "encoding": "o200k_base",
+    "mode": "selective",
+    "nullable_fields": 0,
+    "mean_tokens": 18,
+    "cases": 81
+  },
+  {
+    "encoding": "o200k_base",
+    "mode": "selective",
+    "nullable_fields": 2,
+    "mean_tokens": 28.5,
+    "cases": 144
+  },
+  {
+    "encoding": "o200k_base",
+    "mode": "selective",
+    "nullable_fields": 4,
+    "mean_tokens": 38.75,
+    "cases": 256
+  },
+  {
+    "encoding": "o200k_base",
+    "mode": "tagged",
+    "nullable_fields": 0,
+    "mean_tokens": 37.666666666666664,
+    "cases": 81
+  },
+  {
+    "encoding": "o200k_base",
+    "mode": "tagged",
+    "nullable_fields": 2,
+    "mean_tokens": 38.166666666666664,
+    "cases": 144
+  },
+  {
+    "encoding": "o200k_base",
+    "mode": "tagged",
+    "nullable_fields": 4,
+    "mean_tokens": 38.75,
+    "cases": 256
+  }
+]

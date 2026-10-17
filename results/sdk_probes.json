@@ -1,0 +1,262 @@
+[
+  {
+    "model": "Update",
+    "sdk": "openai",
+    "source_schema": {
+      "properties": {
+        "note": {
+          "default": "existing-default",
+          "title": "Note",
+          "type": "string"
+        },
+        "owner": {
+          "default": "default-owner",
+          "title": "Owner",
+          "type": "string"
+        }
+      },
+      "title": "Update",
+      "type": "object"
+    },
+    "wire_schema": {
+      "properties": {
+        "note": {
+          "default": "existing-default",
+          "title": "Note",
+          "type": "string"
+        },
+        "owner": {
+          "default": "default-owner",
+          "title": "Owner",
+          "type": "string"
+        }
+      },
+      "title": "Update",
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "note",
+        "owner"
+      ]
+    },
+    "omitted_fields_set": [],
+    "null_fields_set": null,
+    "source_dump_unset": {},
+    "source_dump_all": {
+      "note": "existing-default",
+      "owner": "default-owner"
+    }
+  },
+  {
+    "model": "Update",
+    "sdk": "agents",
+    "source_schema": {
+      "properties": {
+        "note": {
+          "default": "existing-default",
+          "title": "Note",
+          "type": "string"
+        },
+        "owner": {
+          "default": "default-owner",
+          "title": "Owner",
+          "type": "string"
+        }
+      },
+      "title": "Update",
+      "type": "object"
+    },
+    "wire_schema": {
+      "properties": {
+        "note": {
+          "default": "existing-default",
+          "title": "Note",
+          "type": "string"
+        },
+        "owner": {
+          "default": "default-owner",
+          "title": "Owner",
+          "type": "string"
+        }
+      },
+      "title": "Update",
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "note",
+        "owner"
+      ]
+    },
+    "omitted_fields_set": [],
+    "null_fields_set": null,
+    "source_dump_unset": {},
+    "source_dump_all": {
+      "note": "existing-default",
+      "owner": "default-owner"
+    }
+  },
+  {
+    "model": "NullableUpdate",
+    "sdk": "openai",
+    "source_schema": {
+      "properties": {
+        "note": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Note"
+        },
+        "owner": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Owner"
+        }
+      },
+      "title": "NullableUpdate",
+      "type": "object"
+    },
+    "wire_schema": {
+      "properties": {
+        "note": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "title": "Note"
+        },
+        "owner": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "title": "Owner"
+        }
+      },
+      "title": "NullableUpdate",
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "note",
+        "owner"
+      ]
+    },
+    "omitted_fields_set": [],
+    "null_fields_set": [
+      "note",
+      "owner"
+    ],
+    "source_dump_unset": {},
+    "source_dump_all": {
+      "note": null,
+      "owner": null
+    },
+    "wire_dump_unset": {
+      "note": null,
+      "owner": null
+    },
+    "wire_dump_none": {}
+  },
+  {
+    "model": "NullableUpdate",
+    "sdk": "agents",
+    "source_schema": {
+      "properties": {
+        "note": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Note"
+        },
+        "owner": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Owner"
+        }
+      },
+      "title": "NullableUpdate",
+      "type": "object"
+    },
+    "wire_schema": {
+      "properties": {
+        "note": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "title": "Note"
+        },
+        "owner": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "title": "Owner"
+        }
+      },
+      "title": "NullableUpdate",
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "note",
+        "owner"
+      ]
+    },
+    "omitted_fields_set": [],
+    "null_fields_set": [
+      "note",
+      "owner"
+    ],
+    "source_dump_unset": {},
+    "source_dump_all": {
+      "note": null,
+      "owner": null
+    },
+    "wire_dump_unset": {
+      "note": null,
+      "owner": null
+    },
+    "wire_dump_none": {}
+  }
+]

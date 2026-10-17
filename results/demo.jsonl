@@ -1,0 +1,3 @@
+{"source": {"enabled": false}, "wire": {"enabled": false, "note": {"op": "omit"}}, "decoded": {"enabled": false}, "state": {"enabled": false, "note": "keep this note"}}
+{"source": {"note": null}, "wire": {"enabled": null, "note": {"op": "set", "value": null}}, "decoded": {"note": null}, "state": {"enabled": false, "note": null}}
+{"source": {}, "wire": {"enabled": null, "note": {"op": "omit"}}, "decoded": {}, "state": {"enabled": false, "note": null}}

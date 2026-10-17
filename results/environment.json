@@ -1,0 +1,28 @@
+{
+  "python": "3.12.14",
+  "platform": "macOS-27.0.1-arm64-arm-64bit",
+  "packages": {
+    "openai": "3.33.0",
+    "openai-agents": "0.24.0",
+    "pydantic": "2.14.1",
+    "jsonschema": "4.25.1",
+    "tiktoken": "0.14.0",
+    "openapi-schema-validator": "0.9.0"
+  },
+  "sdk_sources": {
+    "openai": {
+      "file": "_pydantic.py",
+      "sha256": "09fd2f1b0b9674d12e21483c58d4448d644602930e6e097c0e374b5387f98c07"
+    },
+    "agents": {
+      "file": "strict_schema.py",
+      "sha256": "dc3e869668c39f344c92d383576fce8f417d7f80b0bf762f637327f639c72e61"
+    }
+  },
+  "timing_microseconds": {
+    "median": 357.14549999999997,
+    "p95": 543.75,
+    "n": 10920,
+    "scope": "encode+decode with validation; in-process; observational only"
+  }
+}
